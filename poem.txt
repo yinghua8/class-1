@@ -1,4 +1,7 @@
 red
+tofu
 orange 
 green
+chicken rice
 blue
+rice
